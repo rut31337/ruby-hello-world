@@ -1,4 +1,4 @@
-FROM ruby-20-rhel7
+FROM registry.access.redhat.com/openshift3/ruby-20-rhel7
 
 USER default
 EXPOSE 8080
