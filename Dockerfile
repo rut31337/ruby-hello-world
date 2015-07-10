@@ -1,4 +1,4 @@
-FROM openshift3/ruby-20-rhel7:latest
+FROM openshift/ruby:latest
 
 USER default
 EXPOSE 8080
